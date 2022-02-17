@@ -17,5 +17,5 @@
 
 ![](https://img.shields.io/badge/Linux-%23eab30f.svg?style=for-the-badge&logo=linux&logoColor=black) ![](https://img.shields.io/badge/Git-%23e54a2f.svg?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/Github-%231a1d21.svg?style=for-the-badge&logo=github&logoColor=white)
 
-[![forthebadge](https://forthebadge.com/images/badges/uses-react.svg)](http://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-reactjs.svg)](http://forthebadge.com)
 ![](https://img.shields.io/badge/Vue-%23314559.svg?style=for-the-badge&logo=vue.js) ![](https://img.shields.io/badge/Php-%237175aa.svg?style=for-the-badge&logo=php&logoColor=white) ![](https://img.shields.io/badge/HTML-%23d84924.svg?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/Scss-%23c45f92.svg?style=for-the-badge&logo=sass&logoColor=white)
