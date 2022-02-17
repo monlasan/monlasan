@@ -1,4 +1,4 @@
-㊙️ yaHoo! 👋  Minasan 😉
+## ㊙️ yaHoo! 👋  Minasan 😉
 
 ![Cover](za.png)
 
@@ -12,7 +12,7 @@
 - 💬 Ask me about anything, really 😉 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 - 📫 How to reach me: Use dark magic 😄... hum 🥸 ... you can find me on telegram 
 - ⚡ Fun fact: I started coding in C++ with DevC++, omg  ... what was i thinking 
-- ⚽ Hobbies: I like reading (so much), play videos games (NSUNS4), drawing (am a portraitist you know 😊)
+- ⚽ Hobbies: I like reading (so much), play videos games (NSUNS4), drawing (am a portraitist you know 😊) and I ❤️ animes/mangas
 
 #### Languages & Tools
 
