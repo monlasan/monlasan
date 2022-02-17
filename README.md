@@ -1,5 +1,5 @@
-<p align="center"> ㊙️ yaHoo! 👋  Minasan 😉 </p>
-### -
+㊙️ yaHoo! 👋  Minasan 😉
+
 ![Cover](za.png)
 
 [![Telegram Contact](https://img.shields.io/badge/Telegram-%230088CC.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/khaled_sama) [![Gmail Contact](https://img.shields.io/badge/Gmail-%23BB001B.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaledsannyaml@gmail.com)
